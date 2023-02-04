@@ -44,4 +44,4 @@ Hint
 
 TestCase 1:Only 1 type of fruit is present.
 
-TestCase 2:
+TestCase 2:3 types of fruits are present
